@@ -1,3 +1,7 @@
+#![feature(test)]
+#![feature(array_windows)]
+
+extern crate test;
 const INPUT: &str = include_str!("../inputs/input01.txt");
 
 fn part1() -> u32 {

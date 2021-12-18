@@ -20,8 +20,9 @@ cargo bench
 
 ### Timing
 
-|                       | Problem                                            | Part A   | Part B   |   
+|                       | Problem                                            | Part 1   | Part 2   |   
 |-----------------------|----------------------------------------------------|----------|----------|
 | [Day 1](src/day01.rs) | [Problem 1](https://adventofcode.com/2021/day/1)   | 0.048 ms | 0.051 ms |   
+| [Day 2](src/day02.rs) | [Problem 2](https://adventofcode.com/2021/day/2)   | 0.040 ms | 0.04l ms |   
 
 > The benchmarks are measured with the unstable bench feature of Rust using my Macbook Pro 13' 2015
